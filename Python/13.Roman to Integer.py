@@ -10,4 +10,3 @@ class Solution:
                 Number += num
                 index += len(roman)
         return Number
-                
